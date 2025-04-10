@@ -1,6 +1,6 @@
 NAME=SR-CFCE
 
-PORT=4053
+PORT=4056
 
 USER=softioc
 
