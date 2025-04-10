@@ -42,7 +42,6 @@ PROD_LIBS += asyn
 
 # EPICS_BASE should appear last so earlier modules can override stuff:
 # Moved to RELEASE.local
-# EPICS_BASE = /home/jtagger/EPICS/R7_0_8/base-7.0.8
 
 # Set RULES here if you want to use build rules from somewhere
 # other than EPICS_BASE:
