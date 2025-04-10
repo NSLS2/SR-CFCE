@@ -1,0 +1,11 @@
+NAME=SR-CFCE
+
+PORT=4053
+
+USER=softioc
+
+HOST=rfctrl01-vm
+
+CHDIR="$CHDIR/iocBoot/iocsr-cfcE"
+EXEC="$CHDIR/st.cmd"
+
