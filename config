@@ -1,6 +1,6 @@
 NAME=SR-CFCE
 
-PORT=4069
+PORT=4070
 
 USER=softioc
 
